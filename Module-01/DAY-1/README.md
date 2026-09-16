@@ -20,8 +20,8 @@ To create a class named 'Student' with String variable 'name' and String variabl
  ```
 /*
 Program to implement a class & objects using Java
-Developed by: RAGUL K
-RegisterNumber: 212224040258
+Developed by: DINESH SREE VATHSAN A
+RegisterNumber: 212224060070
 */
 ```
 
